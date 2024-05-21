@@ -50,13 +50,13 @@ In this tutorial, we'll log into our VM, download/install Proton VPN (free versi
 <br>
 <br/>
 
-  3. Open Proton VPN, log in with your account and select "Fastest" connection. We have to use "Fastest" connection because we have a free account. If you pay for the upgraded versions of Proton VPN, you can select any country you'd like!
+  3. Open Proton VPN, log in with your account, and select "Fastest" connection. We have to use "Fastest" connection because we have a free account. If you pay for the upgraded versions of Proton VPN, you can select any country you'd like!
 ![image](https://github.com/Kelsow96/VIrtual-Private-Networks/assets/169297569/99b1c46f-294f-4efe-bfb9-a40fe70d134a)
 ![Capture](https://github.com/Kelsow96/VIrtual-Private-Networks/assets/169297569/8b1e8000-7f38-4850-ba19-efe4f89b4fb6)
 <br>
 <br/>
 
-  4. Browse back to https://whatismyipaddress.com/ and record the new IP address. Our new IP address is 37.19.200.2. Our VM's public IP address (the one assigned by Azure) is now being masked by our new VPN IP address (37.19.200.2). So, any web traffic will now be routed through the new IP address's server, encrypting and protecting our web data. 
+  4. Browse back to https://whatismyipaddress.com/ and record the new IP address. Our new IP address is 37.19.200.2. Our VM's public IP address (the one assigned by Azure) is now being masked by our new VPN IP address (37.19.200.2). So, any web traffic will now be routed through the new IP address VPN server, encrypting and protecting our web data. 
 ![image](https://github.com/Kelsow96/VIrtual-Private-Networks/assets/169297569/08d92b1a-960c-4d06-baf2-b7340583b369)
 <br>
 <br/>
