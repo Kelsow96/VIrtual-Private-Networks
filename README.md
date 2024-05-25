@@ -9,6 +9,7 @@ A Virtual Private Network (VPN) is a service that creates a secure, encrypted co
 
 <img src="https://github.com/Kelsow96/VIrtual-Private-Networks/assets/169297569/32c52ad1-1197-4ea9-a95e-4e360c5cea25" alt="Proton VPN" width="500" />
 
+<h2>Overview</h2>
 In this tutorial, we'll log into our VM, download/install Proton VPN (free version), note our current IP, activate our VPN in a new region, and see our new IP address. 
 
 <h2> Environments and Technologies Used: </h2>
